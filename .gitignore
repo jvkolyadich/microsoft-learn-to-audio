@@ -1,0 +1,11 @@
+.cache/
+.venv/
+content/
+*.epub
+__pycache__/
+
+# Polish-pass artifacts quote Learn prose verbatim, like content/ itself.
+# They default to content/<course>-polish/; these catch stray explicit paths.
+polish-edits.json
+polish-sites/
+polish-misses/

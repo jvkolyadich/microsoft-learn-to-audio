@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+markdownify>=1.0
+Markdown>=3.5
+EbookLib>=0.18
